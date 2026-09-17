@@ -44,4 +44,5 @@ bin/
 crash.log
 *.tfvars
 ### Mac OS ###
+/.idea/
 .DS_Store
